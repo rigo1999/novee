@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "743046054005",
+    "project_id": "novee-2434f",
+    "storage_bucket": "novee-2434f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743046054005:android:619571cba422bdf960b83c",
+        "android_client_info": {
+          "package_name": "com.example.novee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743046054005-ca5jp5nvum8fmjk6ii7emt7ide4fqu7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrF-1SKv6HhZuJKvtC86H2xsp_TkHVmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743046054005-ca5jp5nvum8fmjk6ii7emt7ide4fqu7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "743046054005-237lfmeg1ktu1m6nqe77r5686tddf1m2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.novee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
